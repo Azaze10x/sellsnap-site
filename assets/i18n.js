@@ -69,7 +69,7 @@ window.SELLSNAP_I18N = {
     footer_privacy: "นโยบายความเป็นส่วนตัว",
     footer_terms: "เงื่อนไขการให้บริการ",
     footer_contact_title: "ติดต่อ",
-    footer_contact_email: "support@sellsnap.app",
+    footer_contact_email: "info@shamantech.co",
     footer_parent: 'ผลิตภัณฑ์ของ <a href="https://shamantech.co"><strong>ShamanTech</strong></a>',
     footer_made: "Made with care in Thailand 🇹🇭",
     back_home: "← กลับ",
@@ -109,7 +109,7 @@ window.SELLSNAP_I18N = {
     privacy_third_3: "<strong>OpenRouter</strong> (ผ่าน edge functions ของเรา) — AI สร้างแคปชั่นและวิเคราะห์รูปภาพ",
     privacy_third_4: "<strong>Google ML Kit</strong> — ลบพื้นหลังบนเครื่อง (ข้อมูลไม่ออกจากอุปกรณ์)",
     privacy_contact_h: "6. ติดต่อเรา",
-    privacy_contact_p: "สำหรับคำถามเกี่ยวกับความเป็นส่วนตัว หรือเพื่อใช้สิทธิของคุณ ติดต่อเราที่ <a href=\"mailto:support@sellsnap.app\">support@sellsnap.app</a>",
+    privacy_contact_p: "สำหรับคำถามเกี่ยวกับความเป็นส่วนตัว หรือเพื่อใช้สิทธิของคุณ ติดต่อเราที่ <a href=\"mailto:info@shamantech.co\">info@shamantech.co</a>",
 
     // ─── Terms page ───
     terms_h1: "เงื่อนไขการให้บริการ",
@@ -162,7 +162,7 @@ window.SELLSNAP_I18N = {
     terms_law_h: "11. กฎหมายที่ใช้บังคับ",
     terms_law_p: "เงื่อนไขนี้อยู่ภายใต้กฎหมายของประเทศไทย ข้อพิพาทใด ๆ ให้ดำเนินการในศาลกรุงเทพมหานคร ประเทศไทย",
     terms_contact_h: "12. ติดต่อเรา",
-    terms_contact_p: "สำหรับคำถามเกี่ยวกับเงื่อนไขนี้ ติดต่อเราที่ <a href=\"mailto:support@sellsnap.app\">support@sellsnap.app</a>",
+    terms_contact_p: "สำหรับคำถามเกี่ยวกับเงื่อนไขนี้ ติดต่อเราที่ <a href=\"mailto:info@shamantech.co\">info@shamantech.co</a>",
   },
 
   en: {
@@ -228,7 +228,7 @@ window.SELLSNAP_I18N = {
     footer_privacy: "Privacy Policy",
     footer_terms: "Terms of Service",
     footer_contact_title: "Contact",
-    footer_contact_email: "support@sellsnap.app",
+    footer_contact_email: "info@shamantech.co",
     footer_parent: 'A product of <a href="https://shamantech.co"><strong>ShamanTech</strong></a>',
     footer_made: "Made with care in Thailand 🇹🇭",
     back_home: "← Back",
@@ -268,7 +268,7 @@ window.SELLSNAP_I18N = {
     privacy_third_3: "<strong>OpenRouter</strong> (via our edge functions) — AI caption and image analysis.",
     privacy_third_4: "<strong>Google ML Kit</strong> — on-device background removal (no data leaves your device).",
     privacy_contact_h: "6. Contact",
-    privacy_contact_p: "For privacy questions or to exercise your rights, contact us at <a href=\"mailto:support@sellsnap.app\">support@sellsnap.app</a>.",
+    privacy_contact_p: "For privacy questions or to exercise your rights, contact us at <a href=\"mailto:info@shamantech.co\">info@shamantech.co</a>.",
 
     // ─── Terms page ───
     terms_h1: "Terms of Service",
@@ -321,6 +321,6 @@ window.SELLSNAP_I18N = {
     terms_law_h: "11. Governing Law",
     terms_law_p: "These Terms are governed by the laws of Thailand. Any disputes shall be resolved in the courts of Bangkok, Thailand.",
     terms_contact_h: "12. Contact",
-    terms_contact_p: "For questions about these Terms, contact us at <a href=\"mailto:support@sellsnap.app\">support@sellsnap.app</a>.",
+    terms_contact_p: "For questions about these Terms, contact us at <a href=\"mailto:info@shamantech.co\">info@shamantech.co</a>.",
   },
 };
