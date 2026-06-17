@@ -102,21 +102,11 @@ img { max-width: 100%; display: block; }
 
 /* ─── Hero ──────────────────────────────────────────────────── */
 .hero {
-  padding: 140px 0 80px;
+  padding: 120px 0 80px;
   text-align: center;
   background:
     radial-gradient(ellipse at top, rgba(255,107,107,0.08), transparent 60%),
     var(--bg-soft);
-}
-.hero-badge {
-  display: inline-block;
-  background: rgba(124,92,252,0.1);
-  color: var(--purple);
-  font-size: 13px;
-  font-weight: 600;
-  padding: 6px 16px;
-  border-radius: var(--radius-pill);
-  margin-bottom: 24px;
 }
 .hero h1 {
   font-size: clamp(32px, 5vw, 52px);
@@ -142,7 +132,7 @@ img { max-width: 100%; display: block; }
   position: relative;
   width: 280px;
   height: 280px;
-  margin: 56px auto 0;
+  margin: 0 auto 48px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -199,7 +189,7 @@ img { max-width: 100%; display: block; }
 }
 
 @media (max-width: 640px) {
-  .hero-visual { width: 220px; height: 220px; margin-top: 44px; }
+  .hero-visual { width: 220px; height: 220px; margin-bottom: 36px; }
   .hero-icon { width: 130px; }
   .hero-glow { width: 180px; height: 180px; }
 }
