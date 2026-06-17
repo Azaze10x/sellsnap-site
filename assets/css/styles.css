@@ -388,7 +388,7 @@ img { max-width: 100%; display: block; }
 .footer-grid a { color: var(--text-main); font-size: 14px; }
 .footer-meta {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 12px;
